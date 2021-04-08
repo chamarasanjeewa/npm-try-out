@@ -2,7 +2,8 @@
 [![GitHub license](https://img.shields.io/github/license/chamarasanjeewa/npm-try-out)](https://github.com/chamarasanjeewa/npm-try-out)
 
 This removes spaces of a given string.
- Usage
+
+Usage....
  
 const tiny=require ("@chamarasanjeewa/tiny");
 const res=tiny("my name is chamara")
