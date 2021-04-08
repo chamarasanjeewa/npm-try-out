@@ -5,8 +5,10 @@
 This removes spaces of a given string.
 
 # Installation
-npm i @chamarasanjeewa/tiny
+`npm i @chamarasanjeewa/tiny`
  
+ ```
 const tiny=require ("@chamarasanjeewa/tiny");
 const res=tiny("my name is chamara")
 console.log(res);
+```
